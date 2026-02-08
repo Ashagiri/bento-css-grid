@@ -1,5 +1,5 @@
 # Bento-CSS -Grid Layout
-"A high-performance, responsive portfolio dashboard built with Pure CSS Grid and Glassmorphism. Showcasing modern UI techniques and developer stats with zero JavaScript."
+A high-performance, responsive portfolio dashboard built with Pure CSS Grid and Glassmorphism. Showcasing modern UI techniques and developer stats with zero JavaScript.
 
 # Features
 Responsive Design: Adapts seamlessly to various screen sizes, including desktop and mobile views.

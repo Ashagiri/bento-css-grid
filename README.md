@@ -19,7 +19,9 @@ Google Fonts: Integrated for better typography.
 
 # Usage
 Customization: Modify the style.css file to change colors, fonts, or layout.
+
 Fonts: The project uses Google Fonts (e.g., DM Sans). You can replace or add new font families in the <link> tag inside index.html.
+
 Development Notes
 The layout uses CSS Grid for the overall structure and Flexbox for inner element alignment.
 Media queries are applied to ensure responsiveness for smaller screens.

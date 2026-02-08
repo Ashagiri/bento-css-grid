@@ -24,10 +24,14 @@ Fonts: The project uses Google Fonts (e.g., DM Sans). You can replace or add new
 
 # Development Notes
 The layout uses CSS Grid for the overall structure and Flexbox for inner element alignment.
+
 Media queries are applied to ensure responsiveness for smaller screens.
+
 Overflow is managed with overflow: hidden; where necessary to prevent content spillage.
-Preview
+
+# Preview
 Desktop View:
 Multi-column layout with structured sections.
+
 Mobile View:
 Stacked elements with optimized spacing.

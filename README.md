@@ -13,6 +13,7 @@ Customizable Styles: Styles can be modified to fit your brand or project needs.
 Modern Typography: Utilizes Google Fonts for clean and stylish typography.
 
 # Technologies Used
+
 HTML5: For semantic and accessible markup.
 
 CSS3: For advanced styling and layout.
